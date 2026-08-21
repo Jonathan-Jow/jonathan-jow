@@ -151,12 +151,12 @@ STATUS: ACTIVE
 ║                                                          ║
 ║  Developer        : Jonathan                             ║
 ║  GitHub           : jonathan-jow                         ║
-║  Main Focus       : Software Development                  ║
-║  Secondary Focus  : Cybersecurity                         ║
-║  AI               : ████████████████░░ 80%               ║
-║  Web Development  : █████████████████░ 90%               ║
-║  Security         : ███████████░░░░░░░ 60%               ║
-║  Linux            : ███████████████░░░ 80%               ║
+║  Main Focus       : Software Development                 ║
+║  Secondary Focus  : Cybersecurity                        ║
+║  AI               : ███████░░░░░░░ 50%                   ║
+║  Web Development  : █████████████░ 90%                   ║
+║  Security         : ███████░░░░░░░ 50%                   ║
+║  Linux            : ███████████░░░ 70%                   ║
 ║                                                          ║
 ║  SYSTEM STATUS    : ONLINE                               ║
 ║                                                          ║
@@ -169,3 +169,4 @@ STATUS: ACTIVE
 "The best way to predict the future is to build it."
 
 </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+System+shutdown+protocol+disabled.;%3E+Developer+mode+is+always+active.;%3E+See+you+in+the+next+commit..." /> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:111827,100:050505&height=120&section=footer" width="100%"/> </div> ```
