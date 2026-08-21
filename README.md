@@ -142,7 +142,7 @@ STATUS: ACTIVE
 08 // GITHUB_TROPHIES
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jonathan-jow&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" /> </div>
 09 // CONTRIBUTION_PROTOCOL
-<div align="center"> <img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+<img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 10 // SOCIAL_NETWORK
 <div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/> </a> <a href="https://instagram.com/rochajow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF"/> </a> <a href="https://www.linkedin.com/in/jonathan-rafaell/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/> </a> <a href="mailto:jonathanff2009@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/> </a> </div>
 11 // SYSTEM_INFORMATION
