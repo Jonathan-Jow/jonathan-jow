@@ -28,12 +28,13 @@
 │  > Username: jonathan-jow                                    │
 │  > Role: Systems Development Student                         │
 │  > Focus: Software Engineering & Cybersecurity               │
-│  > Environment: Linux                                       │
+│  > Environment: Linux                                        │
 │  > Current Mode: Learning / Building / Exploring             │
 │                                                              │
 │  "Transforming ideas into systems, one line at a time."      │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
 Olá! 👋
 
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, programação, inteligência artificial e segurança.
@@ -74,7 +75,7 @@ TOOL	PURPOSE
 ⌨️ Terminal	Automation & system management
 </div>
 04 // FEATURED_PROJECTS
-<div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-jow&repo=SEU_PROJETO_1&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/jonathan-jow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-jow&repo=SEU_PROJETO_2&theme=tokyonight&hide_border=true" /> </a> </div> <br>
+<div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://github-readme-stats.vercel.app/api?username=jonathan-jow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> </a> </div> <br>
 🤖 Nutri AI
 
 Intelligent nutrition assistant developed as a technology project.
@@ -143,7 +144,7 @@ STATUS: ACTIVE
 09 // CONTRIBUTION_PROTOCOL
 <div align="center"> <img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
 10 // SOCIAL_NETWORK
-<div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/> </a> <a href="https://instagram.com/rochajow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF"/> </a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/> </a> </div>
+<div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/> </a> <a href="https://instagram.com/rochajow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF"/> </a> <a href="https://www.linkedin.com/in/jonathan-rafaell/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/> </a> <a href="mailto:jonathanff2009@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/> </a> </div>
 11 // SYSTEM_INFORMATION
 ╔══════════════════════════════════════════════════════════╗
 ║                     SYSTEM INFORMATION                   ║
@@ -153,10 +154,10 @@ STATUS: ACTIVE
 ║  GitHub           : jonathan-jow                         ║
 ║  Main Focus       : Software Development                 ║
 ║  Secondary Focus  : Cybersecurity                        ║
-║  AI               : ███████░░░░░░░ 50%                   ║
-║  Web Development  : █████████████░ 90%                   ║
-║  Security         : ███████░░░░░░░ 50%                   ║
-║  Linux            : ███████████░░░ 70%                   ║
+║  AI               : ████████████████░░ 80%               ║
+║  Web Development  : █████████████████░ 90%               ║
+║  Security         : ███████████░░░░░░░ 60%               ║
+║  Linux            : ███████████████░░░ 80%               ║
 ║                                                          ║
 ║  SYSTEM STATUS    : ONLINE                               ║
 ║                                                          ║
