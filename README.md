@@ -136,7 +136,7 @@ STATUS: ACTIVE
 07 // ACTIVITY_GRAPH
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathan-jow&bg_color=0D1117&color=00F0FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div>
 08 // GITHUB_TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jonathan-jow&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" /> </div>
+<div align="center">  </div>
 09 // CONTRIBUTION_PROTOCOL
 <div align="center"> <img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
 10 // SOCIAL_NETWORK
