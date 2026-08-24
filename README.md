@@ -15,11 +15,11 @@
 
 </div>
 
----
+
 
 # `01 // ABOUT_ME`
 
-```text
+text
 ┌──────────────────────────────────────────────────────────────┐
 │                    DEVELOPER PROFILE                         │
 ├──────────────────────────────────────────────────────────────┤
@@ -28,7 +28,7 @@
 │  > Username: jonathan-jow                                    │
 │  > Role: Systems Development Student                         │
 │  > Focus: Software Engineering & Cybersecurity               │
-│  > Environment: Linux                                        │
+│  > Environment: Linux                                       │
 │  > Current Mode: Learning / Building / Exploring             │
 │                                                              │
 │  "Transforming ideas into systems, one line at a time."      │
@@ -51,6 +51,7 @@ Atualmente estou focado em:
 🚀 Projetos com IA
 02 // TECH_STACK
 <div align="center">
+``
 LANGUAGES
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,typescript" />
 FRONTEND
@@ -106,12 +107,9 @@ HTML CSS JavaScript AI APIs
 05 // CURRENT_MISSION
 $ ./mission_control.sh
 
-
 [■■■■■■■■■■■■■■■■■■■■] 100%
 
-
 > Loading objectives...
-
 
 ✓ Learn advanced JavaScript
 ✓ Improve backend development
@@ -122,20 +120,15 @@ $ ./mission_control.sh
 ✓ Build scalable projects
 ✓ Create useful AI-powered applications
 
-
 > CURRENT MISSION:
 
-
 [ SYSTEM MESSAGE ]
-
 
 Keep learning.
 Keep building.
 Keep experimenting.
 
-
 STATUS: ACTIVE
-```
 
 06 // GITHUB_ANALYTICS
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-jow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-jow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=jonathan-jow&theme=tokyonight&hide_border=true" /> </div>
@@ -144,7 +137,7 @@ STATUS: ACTIVE
 08 // GITHUB_TROPHIES
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jonathan-jow&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" /> </div>
 09 // CONTRIBUTION_PROTOCOL
-<img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center"> <img src="https://raw.githubusercontent.com/jonathan-jow/jonathan-jow/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
 10 // SOCIAL_NETWORK
 <div align="center"> <a href="https://github.com/jonathan-jow"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/> </a> <a href="https://instagram.com/rochajow"> <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF"/> </a> <a href="https://www.linkedin.com/in/jonathan-rafaell/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/> </a> <a href="mailto:jonathanff2009@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/> </a> </div>
 11 // SYSTEM_INFORMATION
@@ -154,8 +147,8 @@ STATUS: ACTIVE
 ║                                                          ║
 ║  Developer        : Jonathan                             ║
 ║  GitHub           : jonathan-jow                         ║
-║  Main Focus       : Software Development                 ║
-║  Secondary Focus  : Cybersecurity                        ║
+║  Main Focus       : Software Development                  ║
+║  Secondary Focus  : Cybersecurity                         ║
 ║  AI               : ████████████████░░ 80%               ║
 ║  Web Development  : █████████████████░ 90%               ║
 ║  Security         : ███████████░░░░░░░ 60%               ║
